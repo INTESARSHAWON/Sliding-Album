@@ -1,0 +1,4 @@
+1. Javascript
+2. CSS
+
+a sliding image created by JS and css
